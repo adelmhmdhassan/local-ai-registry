@@ -861,8 +861,7 @@
         "weights": {
           "subdir": "Qwen3.5-9B-EXL3-6hb-4bpw"
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-3060-ti-8gb": {
       "match": {
@@ -964,8 +963,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-3070-8gb": {
       "match": {
@@ -1067,8 +1065,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-3070-ti-8gb": {
       "match": {
@@ -3231,8 +3228,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-4060-laptop-8gb": {
       "match": {
@@ -3996,8 +3992,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-4070-12gb": {
       "match": {
@@ -4079,8 +4074,7 @@
         "weights": {
           "subdir": "Qwen3.5-9B-EXL3-6hb-4bpw"
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-4070-super-12gb": {
       "match": {
@@ -4162,8 +4156,7 @@
         "weights": {
           "subdir": "Qwen3.5-9B-EXL3-4bpw"
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-4070-ti-12gb": {
       "match": {
@@ -5563,8 +5556,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-5060-ti-16gb": {
       "match": {
@@ -5822,8 +5814,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-5070-12gb": {
       "match": {
@@ -5905,8 +5896,7 @@
         "weights": {
           "subdir": "Qwen3.5-9B-EXL3-6hb-4bpw"
         }
-      },
-      "recipes": []
+      }
     },
     "rtx-5070-ti-16gb": {
       "match": {
@@ -8300,8 +8290,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "rx-7600-xt-16gb": {
       "match": {
@@ -8392,8 +8381,7 @@
         "weights": {
           "subdir": ""
         }
-      },
-      "recipes": []
+      }
     },
     "xdna2-krackan-16gb": {
       "match": {
@@ -8460,11 +8448,9 @@
         "weights": {
           "subdir": "Qwen3.5-9B-NPU2"
         }
-      },
-      "recipes": []
+      }
     }
   },
   "registryCommit": "794f5add7db2fc5b001f3e61d83127d191d82687",
-  "schemaVersion": "omarchy-local-ai/recipes/1",
-  "recipes": []
+  "schemaVersion": "omarchy-local-ai/recipes/1"
 }
